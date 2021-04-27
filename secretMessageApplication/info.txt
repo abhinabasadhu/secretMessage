@@ -1,0 +1,12 @@
+domain -> PAth -> Query String -> Hash/fragment
+message.com -> /index.html/ -> ?color=red/ #value 
+
+JavaScript Object -> {color:'red'}
+
+# fragment
+Developers wants to store some information only on the url and only relevan to the browser
+and not relevant to any back end server we store it after the Hash.
+
+draw.io / ?mode=github #StephenGrider/everything-js/master/daigram/message/daigram.xml
+
+we store the encrypted message on the #value
